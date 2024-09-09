@@ -99,7 +99,7 @@ end
 ### Large image
 
 ![Branching](Internet-Hacker-PNG-Photos.png)
-
+**Totally a real picture of me. Not a stock image**
 
 ### Definition lists can be used with HTML syntax.
 
