@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jdan.Json'
+theme = 'terminal'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
